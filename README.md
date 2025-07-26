@@ -1,7 +1,7 @@
 # What's up! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Josef%20Caique-blue?logo=linkedin)](https://www.linkedin.com/in/josef-silva-a21b06220/)
-[![Email](https://img.shields.io/badge/Email-contato@josefcaique.dev-blue)](mailto:jcaique10@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contato@josefcaique.dev-blue)](jcaique10@gmail.com)
 
 ---
 
