@@ -6,7 +6,7 @@
 
 (Java | Spring Boot | AWS | Python | Ignition |)
 
-🧠 I'm a software developer focused on building backend solutions and automation tools for industry and web systems.  
+🧠 I'm a software engenieer focused on building backend solutions and automation tools for industry and web systems.  
 👷 Currently building solutions using **Ignition SCADA**, *JAVA* and **Python**, applied in industrial environments.  
 💡 Passionate about web development, machine learning, technology and innovation.  
 🎯 My mission is to grow as a software engenier.
