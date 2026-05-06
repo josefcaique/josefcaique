@@ -4,7 +4,7 @@
 
 ## My name is Josef Caique
 
-(Java | Spring Boot | AWS | Python | Ignition |)
+Java | Spring Boot | AWS | Python | Ignition
 
 🧠 I'm a software engenieer focused on building backend solutions and automation tools for industry and web systems.  
 👷 Currently building solutions using **Ignition SCADA**, *JAVA* and **Python**, applied in industrial environments.  
